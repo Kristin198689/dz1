@@ -1,9 +1,9 @@
 {
   "name": "dz1",
   "version": "1.0.0",
-  "main": "app.js",
+  "main": "logger.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "echo .logger.js"
   },
   "keywords": [],
   "author": "",
